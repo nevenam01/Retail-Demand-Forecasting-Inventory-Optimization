@@ -1,0 +1,43 @@
+# Original project folder (backup)
+PAMU domaci 2/
+
+# Large data files (too big for GitHub)
+train.csv
+test.csv
+transactions.csv
+vremenske_prilike.csv
+vreme_*.csv
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Logs
+*.log
+

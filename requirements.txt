@@ -1,0 +1,16 @@
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+optuna>=3.0.0
+seaborn>=0.12.0
+matplotlib>=3.6.0
+selenium>=4.8.0
+webdriver-manager>=3.8.0
+joblib>=1.2.0
+
+# Time Series Analysis - Master Thesis (Tourism)
+eurostat>=1.1.0
+statsmodels>=0.14.0
+prophet>=1.1.0
+pmdarima>=2.0.0
